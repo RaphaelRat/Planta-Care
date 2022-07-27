@@ -1,5 +1,6 @@
 /*
-  Rui Santos
+  Firebase Client connection by Rui Santos
+
   Complete project details at our blog.
     - ESP32: https://RandomNerdTutorials.com/esp32-firebase-realtime-database/
     - ESP8266: https://RandomNerdTutorials.com/esp8266-nodemcu-firebase-realtime-database/
