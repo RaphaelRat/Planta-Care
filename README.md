@@ -75,5 +75,10 @@ Felizmente ficamos muito empolgados com o projeto e com o resultado, por conta d
 > Na ordem: Matheus Amboni,  Bruno Antonelli, Leomar Marcelo Marschalk, Yan Bentes, Raphael Abreu.
 
  
- 
  -----------
+ 
+ #### Visitantes: 
+ 
+ <img alingn="center" src="https://profile-counter.glitch.me/r4t-planta-care/count.svg" />
+ 
+-----
