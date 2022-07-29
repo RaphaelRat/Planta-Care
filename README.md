@@ -24,7 +24,7 @@ Para que o projeto se tornasse open-source, foi preciso remover o conteúdo sens
  >  <img src="https://user-images.githubusercontent.com/89277770/181349081-0048420a-0af8-45d5-bae0-e9f4d5b84fde.png" alt="ESP32" width="250"/> <img src="https://user-images.githubusercontent.com/89277770/181350828-9748fdd3-d0b5-446e-ba87-44ea9cc996a3.png" alt="Umidade solo" width="250"/> <img src="https://user-images.githubusercontent.com/89277770/181350734-1f387138-227f-45f7-a9bf-858c5353b742.png" alt="Umidade e temp ambiente" width="250"/> 
 
  
- Com tudo isso pronto, pensamos em como regariamos a planta, e para isso montamos a estrutura da imagem abaixo, onde furamos o fundo da garrafa e então fechamos com a tampa (quando a tampa abrir a agua vai vazar por baixo) e fizemos as ligações.
+ Com tudo isso pronto, pensamos em como regariamos a planta, e para isso montamos a estrutura da imagem abaixo, onde furamos o fundo da garrafa e então fechamos com a tampa (quando a tampa abrir a agua vai vazar por baixo) e fizemos as ligações. 
  
 
  >  <img src="https://user-images.githubusercontent.com/89277770/181351375-43ec30c3-0fd8-4696-8c21-0db6900df2dd.png" alt="Estrutura" width="250"/>   <img src="https://user-images.githubusercontent.com/89277770/181351549-ae475302-f7c7-4373-804a-aede4fae4e63.png" alt="Estrutura pronta" width="250"/>   <img src="https://user-images.githubusercontent.com/89277770/181351567-3314e7d0-0b2c-4266-8d9b-c99774715876.png" alt="Estrutura pronta 2" width="250"/> 
