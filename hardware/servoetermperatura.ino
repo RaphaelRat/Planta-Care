@@ -6,7 +6,7 @@
 #include "addons/RTDBHelper.h"
 
 #include <Servo.h>
-Servo myservo;
+
 
 #define DHTTYPE DHT11
 #define DHTPIN 2
@@ -18,6 +18,7 @@ Servo myservo;
 void plantaCare_sendTemperature();
 void plantaCare_sendHumidity();
 
+Servo myservo;
 FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
